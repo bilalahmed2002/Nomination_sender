@@ -1,0 +1,26 @@
+# Nomination Email Sender - Secure Version
+# Requirements file
+#
+# This application uses only Python standard library modules
+# No external dependencies are required
+
+# Python version requirement
+# Python >= 3.7
+
+# Standard library modules used:
+# - tkinter (GUI framework)
+# - json (configuration handling)
+# - os (file system operations)
+# - sys (system-specific parameters)
+# - smtplib (email sending)
+# - email.mime (email formatting)
+# - collections (data structures)
+# - io (input/output operations)
+# - csv (CSV parsing)
+# - base64 (encoding)
+# - time (timing operations)
+# - getpass (secure password input)
+# - pathlib (path operations)
+
+# No external packages required
+# All dependencies are included in Python standard library

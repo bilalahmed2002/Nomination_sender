@@ -1,0 +1,41 @@
+{
+    "firms_codes": {
+        "F123": {
+            "description": "NAME"
+        },
+        "X000": {
+            "description": "NAME2"
+        }
+    },
+    "297": {
+        "type": "normal",
+        "emails": [
+            "example1@airline.com",
+            "example2@airline.com",
+            "example3@airline.com"
+        ],
+        "use_special_subject": false
+    },
+    "999": {
+        "type": "normal",
+        "emails": [
+            "example4@airline.com",
+            "example5@airline.com"
+        ],
+        "use_special_subject": false
+    },
+    "936": {
+        "type": "special",
+        "flights": {
+            "DEFAULT": [
+                "default@airline.com",
+                "backup@airline.com"
+            ],
+            "FLIGHT123": [
+                "flight123@airline.com",
+                "special@airline.com"
+            ]
+        },
+        "use_special_subject": true
+    }
+}
