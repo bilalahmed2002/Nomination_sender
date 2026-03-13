@@ -213,8 +213,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Bilal Ahmed**
-- Email: [Your Email]
-- Company: Fasttrack Express & Cargo Services
+
 
 ## 🆘 Support
 
